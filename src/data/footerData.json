@@ -1,0 +1,101 @@
+{
+  "about": {
+    "title": "Minishop",
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+  },
+  "socialMedia": [
+    {
+      "icon": "twitter",
+      "url": "#",
+      "hoverBg": "bg-blue-400"
+    },
+    {
+      "icon": "facebook",
+      "url": "#",
+      "hoverBg": "bg-blue-600"
+    },
+    {
+      "icon": "instagram",
+      "url": "#",
+      "hoverBg": "bg-pink-600"
+    }
+  ],
+  "menu": {
+    "title": "Menu",
+    "items": [
+      {
+        "name": "Shop",
+        "url": "#"
+      },
+      {
+        "name": "About",
+        "url": "#"
+      },
+      {
+        "name": "Journal",
+        "url": "#"
+      },
+      {
+        "name": "Contact Us",
+        "url": "#"
+      }
+    ]
+  },
+  "help": {
+    "title": "Help",
+    "columns": [
+      [
+        {
+          "name": "Shipping Information",
+          "url": "#"
+        },
+        {
+          "name": "Returns & Exchange",
+          "url": "#"
+        },
+        {
+          "name": "Terms & Conditions",
+          "url": "#"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "#"
+        }
+      ],
+      [
+        {
+          "name": "FAQs",
+          "url": "#"
+        },
+        {
+          "name": "Contact",
+          "url": "#"
+        }
+      ]
+    ]
+  },
+  "contact": {
+    "title": "Have a Questions?",
+    "items": [
+      {
+        "type": "address",
+        "content": "Mollahpara, Magura Sadar, Magura, Bangladesh"
+      },
+      {
+        "type": "phone",
+        "content": "+880 1746-666-9174"
+      },
+      {
+        "type": "email",
+        "content": "sahaduzzaman.cse@gmail.com"
+      }
+    ]
+  },
+  "copyright": {
+    "text": "Copyright ©{year} All rights reserved | This Application is made",
+    "company": {
+      "name": "SAHAD",
+      "url": "https://sahad.vercel.app"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "home",
+    "title": "Home",
+    "path": "/",
+    "type": "link"
+  },
+  {
+    "id": "catalog",
+    "title": "Catalog",
+    "type": "dropdown",
+    "children": [
+      {
+        "id": "shop",
+        "title": "Shop",
+        "path": "/shop"
+      },
+      {
+        "id": "product-single",
+        "title": "Single Product",
+        "path": "/product-single"
+      },
+      {
+        "id": "cart",
+        "title": "Cart",
+        "path": "/cart"
+      },
+      {
+        "id": "checkout",
+        "title": "Checkout",
+        "path": "/checkout"
+      }
+    ]
+  },
+  {
+    "id": "about",
+    "title": "About",
+    "path": "/about",
+    "type": "link"
+  },
+  {
+    "id": "blog",
+    "title": "Blog",
+    "path": "/blog",
+    "type": "link"
+  },
+  {
+    "id": "contact",
+    "title": "Contact",
+    "path": "/contact",
+    "type": "link"
+  },
+  {
+    "id": "login",
+    "title": "Login",
+    "path": "/login",
+    "type": "link"
+  },
+  {
+    "id": "cart",
+    "title": "Cart",
+    "path": "/cart",
+    "type": "special",
+    "icon": "FiShoppingCart",
+    "badge": "0"
+  }
+]
