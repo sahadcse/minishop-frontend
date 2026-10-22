@@ -1,4 +1,8 @@
 {
+  "newsletter": {
+    "title": "Subscribe to our Newsletter",
+    "description": "Get the latest updates, exclusive deals, and more directly to your inbox."
+  },
   "about": {
     "title": "Minishop",
     "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
